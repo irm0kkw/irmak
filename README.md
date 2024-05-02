@@ -1,0 +1,2 @@
+# irmak
+fırın kod temeli
